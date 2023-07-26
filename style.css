@@ -1,0 +1,11 @@
+h1{
+    background-color: blue;
+    !important;
+    color:#fff;
+}
+#p2{
+    background-color: aqua;
+}
+.class2 p{
+    background-color: gray;
+}
